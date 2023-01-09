@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"D:\\Abubakar\\NEXT-13-framer\\app\\page":["D:\\Abubakar\\NEXT-13-framer\\styles\\globals.css"]},"D:\\Abubakar\\NEXT-13-framer\\app\\layout.js":["D:\\Abubakar\\NEXT-13-framer\\styles\\globals.css"]}
